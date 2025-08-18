@@ -12,12 +12,14 @@ Este portafolio reúne proyectos prácticos que demuestran mis habilidades en la
 
 ## Tecnologías utilizadas
 - **Lenguajes:** Python, SQL, Bash
-- **Procesamiento de datos:** Apache Airflow, Apache Spark, Apache Kafka
 - **Bases de datos:** PostgreSQL, MySQL, Snowflake
+- **Control de versiones:** Git y GitHub
+- **Orquestación:** Apache Airflow
+- **Streaming:** Apache Kafka
 - **Cloud:** AWS S3
 - **Contenedores:** Docker
 - **Visualización:** Power BI, Tableau
-- **Control de versiones:** Git y GitHub
+- **Big Data:** Spark, Hadoop
 
 ## Contacto
 - **Email:** zurieldrr@outlook.com
