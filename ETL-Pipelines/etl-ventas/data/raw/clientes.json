@@ -1,5 +1,0 @@
-[
-{"customer_id": 1, "first_name": "Ana", "last_name": "López", "email": "ana@example.com", "country": "MX"},
-{"customer_id": 2, "first_name": "Luis", "last_name": "Pérez", "email": "luis@example.com", "country": "MX"},
-{"customer_id": 3, "first_name": "Sara", "last_name": "García", "email": "sara@example.com", "country": "US"}
-]
