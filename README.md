@@ -12,38 +12,15 @@ He trabajado con herramientas clave como **Python, SQL, Apache Airflow, Kafka, S
 
 ## 🚀 Tecnologías Utilizadas  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-
-**Bases de datos:**  
-- PostgreSQL  
-- MySQL  
-- MongoDB  
-
-**Control de versiones:**  
-- Git & GitHub  
-
-**Orquestación:**  
-- Apache Airflow  
-
-**Streaming:**  
-- Apache Kafka  
-
-**Big Data:**  
-- Apache Spark  
-- Hadoop  
-
-**Cloud:**  
-- AWS  
-- Snowflake  
-
-**Contenedores:**  
-- Docker  
-
-**Visualización:**  
-- Power BI  
-- Tableau  
+Lenguajes: Python, SQL, Bash 
+Bases de datos: PostgreSQL, MySQL, MongoDB 
+Control de versiones: Git y GitHub 
+Orquestación: Apache Airflow 
+Streaming: Apache Kafka 
+Cloud: AWS, Snowflake
+Contenedores: Docker 
+Visualización: Power BI, Tableau 
+Big Data: Apache Spark, Hadoop
 
 ---
 
