@@ -26,20 +26,7 @@ Big Data: Apache Spark, Hadoop
 
 ## 📂 Proyectos Destacados  
 
-### 🔹 1. Pipeline ETL con Airflow y PostgreSQL  
-- Extracción de datos desde múltiples fuentes  
-- Transformaciones en Python y carga en PostgreSQL  
-- Automatización con DAGs en Airflow  
 
-### 🔹 2. Streaming de datos en tiempo real con Kafka y Spark  
-- Ingesta de datos de sensores en Kafka  
-- Procesamiento en tiempo real con Spark Streaming  
-- Persistencia en MongoDB  
-
-### 🔹 3. Data Warehouse en Snowflake  
-- Modelado de esquema en estrella  
-- Cargas masivas desde S3 hacia Snowflake  
-- Dashboards en Power BI  
 
 ---
 
